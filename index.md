@@ -11,3 +11,32 @@ Since I was quite young, I immersed myself in various medias such as science fic
 With the intuition of my interests and the investigations of my undergraduate study in Central Academy of Fine Arts, I absorbed the latest VR techniques and 2D and 3D Animation, Interactive Image Creation, Image and Speculation, Dynamic Graphics and also installation art. I learned to recognize that the constantly generated art media along with traditional aesthetic creations interweave with each other, forming an invisible grid – interactive media. I am already on my way to fully understand each intersection point. 
 
 Under current environment, I think Virtual Reality is a very promising art form, so I started VR-related media art creating in past two years, which is also a project I will continue to work on in Parsons. The Design & Technology MFA emphasis that the discipline uses developing technology as a medium of artistic expression. It simultaneously reflects upon, challenges and innovates the form of creation. This pursuit coincides with my own identity, and stimulates my pursuit of how industrial exploration collides with thinking. I think my main purpose in DT is to explore different art forms, and then integrate the artistic way of thinking into the game industry, which I have always interested in. I noticed that although the game industry is developing rapidly in China, there is still a lack of sincere games, players nowadays are constantly investing money in junk games. Most games made by big companies like Tencent and NetEase are mostly to meet business needs, but are inevitably rigid and lacking artistry. I see developing potentials in both the art and game industries in China and think that the domestic market and profession of media art are facing a growing era, during which talents will be massively needed. In the long run, I hope my accumulation of media art will contribute to my artistic visions and drive the development of the Chinese game industry where commercial games may someday no longer dominate the market.
+
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xintong-TT/xintong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
