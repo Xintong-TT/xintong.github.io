@@ -2,7 +2,7 @@
 
 This is the portfolio page for my Major Studio 1 Class.
 
-### Personal Statement
+## Personal Statement
 
 I always regard myself as a person driven by my interest, that’s basically the main reason why I chose my current major and work. 
 
