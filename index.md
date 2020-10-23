@@ -12,3 +12,33 @@ With the intuition of my interests and the investigations of my undergraduate st
 
 Under current environment, I think Virtual Reality is a very promising art form, so I started VR-related media art creating in past two years, which is also a project I will continue to work on in Parsons. The Design & Technology MFA emphasis that the discipline uses developing technology as a medium of artistic expression. It simultaneously reflects upon, challenges and innovates the form of creation. This pursuit coincides with my own identity, and stimulates my pursuit of how industrial exploration collides with thinking. I think my main purpose in DT is to explore different art forms, and then integrate the artistic way of thinking into the game industry, which I have always interested in. I noticed that although the game industry is developing rapidly in China, there is still a lack of sincere games, players nowadays are constantly investing money in junk games. Most games made by big companies like Tencent and NetEase are mostly to meet business needs, but are inevitably rigid and lacking artistry. I see developing potentials in both the art and game industries in China and think that the domestic market and profession of media art are facing a growing era, during which talents will be massively needed. In the long run, I hope my accumulation of media art will contribute to my artistic visions and drive the development of the Chinese game industry where commercial games may someday no longer dominate the market.
 
+### Markdown
+(Introduction)
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xintong-TT/xintong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
